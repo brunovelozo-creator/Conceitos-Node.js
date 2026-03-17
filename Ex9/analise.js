@@ -1,7 +1,11 @@
-let num = 12
+let num = 0
 
 if (num > 0){
-    console.log("Positivo")
-} else {
-    console.log("Negativo")
+    console.log(`O número ${num} é positivo`)
+} 
+else if (num < 0) {
+    console.log(`O número ${num} é negativo`)
+}
+else{
+    console.log(`O número ${num} é neutro`)
 }
