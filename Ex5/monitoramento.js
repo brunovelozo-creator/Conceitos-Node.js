@@ -1,5 +1,5 @@
-let A = 10
-let B = 5
+let a = 10
+let b = 5
 
-console.log(`A: ${A}`)
-console.log(`B: ${B}`)
+console.log(`A: ${a}`)
+console.log(`B: ${b}`)
